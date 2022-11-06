@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="riezq"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-11-06 06.36.52 PM"/>
+        <attribute name="created" value="cmllenE7QVJJOzIwMjItMTEtMDY7MDYuMjkuMDUgUE07MjAzMQ=="/>
+        <attribute name="edited" value="cmllenE7QVJJOzIwMjItMTEtMDY7MDYuMzYuNTIgUE07MTsyMTM5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <input variable="newTempData"/>
+            <input variable="newHumidityData"/>
+            <input variable="dataset"/>
+            <call expression="averageClassFeatures()"/>
+            <call expression="averageGlobalFeatures()"/>
+            <call expression="meanCorrected()&#13;&#10;"/>
+            <call expression="classCovariant()"/>
+            <call expression="classCovariantInvers()"/>
+            <call expression="priorProbability()"/>
+            <call expression="discriminantFunction()"/>
+            <output expression="newClassification" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
