@@ -1,0 +1,524 @@
+[
+	{
+		"humid" : 30.0,
+		"temp" : 30.0,
+		"kelas" : 1,
+		"label" : "K"
+	},
+	{
+		"humid" : 25.0,
+		"temp" : 28.0,
+		"kelas" : 1,
+		"label" : "K"
+	},
+	{
+		"humid" : 28.0,
+		"temp" : 20.0,
+		"kelas" : 1,
+		"label" : "K"
+	},
+	{
+		"humid" : 32.0,
+		"temp" : 28.0,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 40.0,
+		"temp" : 28.0,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 36.0,
+		"temp" : 28.0,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 47.0,
+		"temp" : 27.0,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 38.0,
+		"temp" : 29.0,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 32.0,
+		"temp" : 30.0,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 45.0,
+		"temp" : 27.0,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 46.0,
+		"temp" : 32.0,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 43.0,
+		"temp" : 31.0,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 36.5,
+		"temp" : 28.48,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 37.11,
+		"temp" : 29.4,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 37.35,
+		"temp" : 28.15,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 37.86,
+		"temp" : 29.11,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 37.88,
+		"temp" : 26.61,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 38.11,
+		"temp" : 26.33,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 38.16,
+		"temp" : 26.27,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 38.6,
+		"temp" : 27.67,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 38.66,
+		"temp" : 25.74,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 38.81,
+		"temp" : 30.67,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 38.91,
+		"temp" : 25.16,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.01,
+		"temp" : 25.37,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.25,
+		"temp" : 30.5,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.3,
+		"temp" : 25.06,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.49,
+		"temp" : 27.33,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.55,
+		"temp" : 24.8,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.59,
+		"temp" : 27.29,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.69,
+		"temp" : 31.1,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.78,
+		"temp" : 24.55,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.91,
+		"temp" : 24.41,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.96,
+		"temp" : 29.84,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 39.97,
+		"temp" : 30.24,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 40.09,
+		"temp" : 24.22,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 40.37,
+		"temp" : 27.76,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 40.45,
+		"temp" : 27.73,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 40.5,
+		"temp" : 23.78,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 40.7,
+		"temp" : 29.94,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 40.95,
+		"temp" : 27.92,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 41.33,
+		"temp" : 29.7,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 41.55,
+		"temp" : 30.0,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 41.87,
+		"temp" : 30.84,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 42.07,
+		"temp" : 30.57,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 42.56,
+		"temp" : 28.07,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 42.86,
+		"temp" : 27.57,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 43.38,
+		"temp" : 30.45,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 43.74,
+		"temp" : 29.54,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 44.33,
+		"temp" : 28.16,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 44.38,
+		"temp" : 28.14,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 44.49,
+		"temp" : 27.33,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 45.23,
+		"temp" : 26.31,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 45.78,
+		"temp" : 30.19,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 45.84,
+		"temp" : 28.35,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 46.24,
+		"temp" : 26.85,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 46.73,
+		"temp" : 28.39,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 47.31,
+		"temp" : 26.89,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 47.87,
+		"temp" : 27.18,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 47.95,
+		"temp" : 27.92,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 47.96,
+		"temp" : 29.07,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 48.52,
+		"temp" : 27.7,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 48.71,
+		"temp" : 27.63,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 49.79,
+		"temp" : 26.61,
+		"kelas" : 2,
+		"label" : "AK"
+	},
+	{
+		"humid" : 61.0,
+		"temp" : 25.0,
+		"kelas" : 3,
+		"label" : "B"
+	},
+	{
+		"humid" : 63.0,
+		"temp" : 26.0,
+		"kelas" : 3,
+		"label" : "B"
+	},
+	{
+		"humid" : 56.0,
+		"temp" : 21.0,
+		"kelas" : 3,
+		"label" : "B"
+	},
+	{
+		"humid" : 52.0,
+		"temp" : 27.0,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 56.0,
+		"temp" : 28.0,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 58.0,
+		"temp" : 23.0,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 52.0,
+		"temp" : 27.0,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 54.0,
+		"temp" : 32.0,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 53.0,
+		"temp" : 32.0,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 49.41,
+		"temp" : 27.36,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 50.29,
+		"temp" : 27.02,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 50.67,
+		"temp" : 27.36,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 51.02,
+		"temp" : 29.0,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 51.2,
+		"temp" : 26.67,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 51.7,
+		"temp" : 27.1,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 51.82,
+		"temp" : 26.43,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 52.19,
+		"temp" : 26.29,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 53.61,
+		"temp" : 26.51,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 54.46,
+		"temp" : 27.37,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 54.92,
+		"temp" : 27.22,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 55.64,
+		"temp" : 25.99,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 55.72,
+		"temp" : 27.11,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 56.6,
+		"temp" : 27.8,
+		"kelas" : 4,
+		"label" : "AB"
+	},
+	{
+		"humid" : 57.05,
+		"temp" : 27.54,
+		"kelas" : 4,
+		"label" : "AB"
+	}
+]

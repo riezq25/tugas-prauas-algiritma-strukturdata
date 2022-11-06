@@ -1,0 +1,525 @@
+	{
+"uji_dataset": [
+	{
+		"id" : 1,
+		"humid" : 30.0,
+		"temp" : 30.0,
+		"id_label_klasifikasi" : 1
+	},
+	{
+		"id" : 2,
+		"humid" : 25.0,
+		"temp" : 28.0,
+		"id_label_klasifikasi" : 1
+	},
+	{
+		"id" : 3,
+		"humid" : 28.0,
+		"temp" : 20.0,
+		"id_label_klasifikasi" : 1
+	},
+	{
+		"id" : 4,
+		"humid" : 32.0,
+		"temp" : 28.0,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 5,
+		"humid" : 40.0,
+		"temp" : 28.0,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 6,
+		"humid" : 36.0,
+		"temp" : 28.0,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 7,
+		"humid" : 47.0,
+		"temp" : 27.0,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 8,
+		"humid" : 38.0,
+		"temp" : 29.0,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 9,
+		"humid" : 32.0,
+		"temp" : 30.0,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 10,
+		"humid" : 61.0,
+		"temp" : 25.0,
+		"id_label_klasifikasi" : 3
+	},
+	{
+		"id" : 11,
+		"humid" : 63.0,
+		"temp" : 26.0,
+		"id_label_klasifikasi" : 3
+	},
+	{
+		"id" : 12,
+		"humid" : 52.0,
+		"temp" : 27.0,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 13,
+		"humid" : 56.0,
+		"temp" : 28.0,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 14,
+		"humid" : 56.0,
+		"temp" : 21.0,
+		"id_label_klasifikasi" : 3
+	},
+	{
+		"id" : 15,
+		"humid" : 58.0,
+		"temp" : 23.0,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 16,
+		"humid" : 52.0,
+		"temp" : 27.0,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 17,
+		"humid" : 45.0,
+		"temp" : 27.0,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 18,
+		"humid" : 54.0,
+		"temp" : 32.0,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 19,
+		"humid" : 53.0,
+		"temp" : 32.0,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 20,
+		"humid" : 46.0,
+		"temp" : 32.0,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 21,
+		"humid" : 43.0,
+		"temp" : 31.0,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 22,
+		"humid" : 36.5,
+		"temp" : 28.48,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 23,
+		"humid" : 37.11,
+		"temp" : 29.4,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 24,
+		"humid" : 37.35,
+		"temp" : 28.15,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 25,
+		"humid" : 37.86,
+		"temp" : 29.11,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 26,
+		"humid" : 37.88,
+		"temp" : 26.61,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 27,
+		"humid" : 38.11,
+		"temp" : 26.33,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 28,
+		"humid" : 38.16,
+		"temp" : 26.27,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 29,
+		"humid" : 38.6,
+		"temp" : 27.67,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 30,
+		"humid" : 38.66,
+		"temp" : 25.74,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 31,
+		"humid" : 38.81,
+		"temp" : 30.67,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 32,
+		"humid" : 38.91,
+		"temp" : 25.16,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 33,
+		"humid" : 39.01,
+		"temp" : 25.37,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 34,
+		"humid" : 39.25,
+		"temp" : 30.5,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 35,
+		"humid" : 39.3,
+		"temp" : 25.06,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 36,
+		"humid" : 39.49,
+		"temp" : 27.33,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 37,
+		"humid" : 39.55,
+		"temp" : 24.8,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 38,
+		"humid" : 39.59,
+		"temp" : 27.29,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 39,
+		"humid" : 39.69,
+		"temp" : 31.1,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 40,
+		"humid" : 39.78,
+		"temp" : 24.55,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 41,
+		"humid" : 39.91,
+		"temp" : 24.41,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 42,
+		"humid" : 39.96,
+		"temp" : 29.84,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 43,
+		"humid" : 39.97,
+		"temp" : 30.24,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 44,
+		"humid" : 40.09,
+		"temp" : 24.22,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 45,
+		"humid" : 40.37,
+		"temp" : 27.76,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 46,
+		"humid" : 40.45,
+		"temp" : 27.73,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 47,
+		"humid" : 40.5,
+		"temp" : 23.78,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 48,
+		"humid" : 40.7,
+		"temp" : 29.94,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 49,
+		"humid" : 40.95,
+		"temp" : 27.92,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 50,
+		"humid" : 41.33,
+		"temp" : 29.7,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 51,
+		"humid" : 41.55,
+		"temp" : 30.0,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 52,
+		"humid" : 41.87,
+		"temp" : 30.84,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 53,
+		"humid" : 42.07,
+		"temp" : 30.57,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 54,
+		"humid" : 42.56,
+		"temp" : 28.07,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 55,
+		"humid" : 42.86,
+		"temp" : 27.57,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 56,
+		"humid" : 43.38,
+		"temp" : 30.45,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 57,
+		"humid" : 43.74,
+		"temp" : 29.54,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 58,
+		"humid" : 44.33,
+		"temp" : 28.16,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 59,
+		"humid" : 44.38,
+		"temp" : 28.14,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 60,
+		"humid" : 44.49,
+		"temp" : 27.33,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 61,
+		"humid" : 45.23,
+		"temp" : 26.31,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 62,
+		"humid" : 45.78,
+		"temp" : 30.19,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 63,
+		"humid" : 45.84,
+		"temp" : 28.35,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 64,
+		"humid" : 46.24,
+		"temp" : 26.85,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 65,
+		"humid" : 46.73,
+		"temp" : 28.39,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 66,
+		"humid" : 47.31,
+		"temp" : 26.89,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 67,
+		"humid" : 47.87,
+		"temp" : 27.18,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 68,
+		"humid" : 47.95,
+		"temp" : 27.92,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 69,
+		"humid" : 47.96,
+		"temp" : 29.07,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 70,
+		"humid" : 48.52,
+		"temp" : 27.7,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 71,
+		"humid" : 48.71,
+		"temp" : 27.63,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 72,
+		"humid" : 49.41,
+		"temp" : 27.36,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 73,
+		"humid" : 49.79,
+		"temp" : 26.61,
+		"id_label_klasifikasi" : 2
+	},
+	{
+		"id" : 74,
+		"humid" : 50.29,
+		"temp" : 27.02,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 75,
+		"humid" : 50.67,
+		"temp" : 27.36,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 76,
+		"humid" : 51.02,
+		"temp" : 29.0,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 77,
+		"humid" : 51.2,
+		"temp" : 26.67,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 78,
+		"humid" : 51.7,
+		"temp" : 27.1,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 79,
+		"humid" : 51.82,
+		"temp" : 26.43,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 80,
+		"humid" : 52.19,
+		"temp" : 26.29,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 81,
+		"humid" : 53.61,
+		"temp" : 26.51,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 82,
+		"humid" : 54.46,
+		"temp" : 27.37,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 83,
+		"humid" : 54.92,
+		"temp" : 27.22,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 84,
+		"humid" : 55.64,
+		"temp" : 25.99,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 85,
+		"humid" : 55.72,
+		"temp" : 27.11,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 86,
+		"humid" : 56.6,
+		"temp" : 27.8,
+		"id_label_klasifikasi" : 4
+	},
+	{
+		"id" : 87,
+		"humid" : 57.05,
+		"temp" : 27.54,
+		"id_label_klasifikasi" : 4
+	}
+]}
