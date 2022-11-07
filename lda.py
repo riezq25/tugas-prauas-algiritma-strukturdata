@@ -109,8 +109,11 @@ def priorProbability(splitedDataset):
 def descisionFunction(globalCovarianceMatrix, inverseGlobalCovarianceMatrix, priorProbability, averageClass, x):
     descisionFunction = {}
     for i in averageClass:
-        side1 = np.matmul(np.matmul(averageClass[i], inverseGlobalCovarianceMatrix), np.matrix(x).transpose())
-        side2 = -0.5 * np.matmul(np.matmul(averageClass[i], inverseGlobalCovarianceMatrix), averageClass[i].transpose())
+        avarege = np.matrix([averageClass[i]['humid'], averageClass[i]['temp']])
+        
+        print('average', avarege)
+        side1 = np.matmul(np.matmul(avarege, inverseGlobalCovarianceMatrix), np.matrix(x).transpose())
+        side2 = -0.5 * np.matmul(np.matmul(avarege, inverseGlobalCovarianceMatrix), avarege.transpose())
         side3 = np.log(priorProbability[i])
         
         descisionFunction[i] = side1+side2+side3
